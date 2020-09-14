@@ -1,2 +1,2 @@
 # RecurrenceRelation
-![RR Work](/images/logo.png)
+![RR Work](simple_path.png)
